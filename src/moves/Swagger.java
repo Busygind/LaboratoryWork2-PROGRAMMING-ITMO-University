@@ -14,7 +14,7 @@ public class Swagger extends StatusMove {
     }
 
     @Override
-    protected String describe() {
+    protected String describe(){
         return "использует Swagger";
     }
 }
