@@ -8,10 +8,8 @@ public class AerialAce extends PhysicalMove{
     }
 //ИСПРАВИТЬ
 //    @Override
-//    protected void applyOppEffects(Pokemon p){
-//        if (Math.random()<0.1) {
-//            Effect.freeze(p);
-//        }
+//    protected void applySelfEffects(Pokemon p){
+//
 //    }
 
     @Override
